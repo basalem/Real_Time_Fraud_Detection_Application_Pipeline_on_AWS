@@ -18,7 +18,7 @@ Thank you for visiting my Github repository, the following project is currently 
 - Deploy Spark streaming applications for real-time scoring
 - Real-time monitoring using Elastic and Kibana
 
-I will implement the following for the purpose of different model deployment approaches 
+I will implement the following for the purpose of trying different ML model deployment approaches 
 
 - Machine Learning model deployment in docker containers
 - Scaling model training to Amazon SageMaker
